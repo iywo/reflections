@@ -1,0 +1,16 @@
+git init
+git status
+git log / --graph  / --oneline
+git diff / --staged
+git view
+git checkout / -b
+git branch / -d
+git merge
+git add
+git commit
+git gc
+
+git clone
+git remote / -v / add 
+git push
+git pull
