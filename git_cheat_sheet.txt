@@ -4,7 +4,7 @@ git log / --graph  / --oneline
 git diff / --staged
 git view
 git checkout / -b
-git branch / -d
+git branch / -a / -d
 git merge
 git add
 git commit
@@ -14,3 +14,4 @@ git clone
 git remote / -v / add 
 git push
 git pull
+git fetch
