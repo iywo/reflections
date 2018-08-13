@@ -1,6 +1,6 @@
 git init
 git status
-git log / --graph  / --oneline
+git log / --graph  / --oneline / -n 1
 git diff / --staged
 git view
 git checkout / -b
