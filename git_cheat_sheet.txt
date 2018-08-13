@@ -14,4 +14,4 @@ git clone
 git remote / -v / add 
 git push
 git pull
-git fetch
+git fetch origin
